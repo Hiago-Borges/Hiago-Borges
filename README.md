@@ -1,4 +1,4 @@
-Hi, I’m @Hiago-Borges
+😁Hi, I’m @Hiago-Borges
 Hello! I am just starting my journey into the fascinating world of programming.
 This repository is where I share my discoveries, initial projects, and seek to collaborate with other enthusiasts to learn and grow together.
 
